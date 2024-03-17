@@ -5,7 +5,7 @@
 * Преобразование данных
 * Исследование зависимостей в данных
   * распределение соискателей по возрастам
-    ![Image alt](https://github.com/mokko-okko/HW_HH/main/IMG/1.jpg)
+    ![Image alt](https://github.com/mokko-okko/HW_HH/IMG/1.jpg)
     
     
   * трудовой стаж
